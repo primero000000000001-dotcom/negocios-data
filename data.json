@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "businesses": [
     {
       "id": "1",
@@ -13,7 +13,7 @@
       },
       "rating": 4.5,
       "images": [
-        "images/1_1.jpg"
+        "1_1.jpg"
       ],
       "hours": [
         {
@@ -77,7 +77,7 @@
       },
       "rating": 4.2,
       "images": [
-        "images/2_1.jpg"
+        "2_1.jpg"
       ],
       "hours": [
         {
@@ -133,12 +133,12 @@
       "address": "Avenida XX Aniversario, Holguín",
       "phone": "+53 24 987654",
       "coordinates": {
-        "latitude": 20.8800,
-        "longitude": -76.2700
+        "latitude": 20.88,
+        "longitude": -76.27
       },
-      "rating": 4.0,
+      "rating": 4,
       "images": [
-        "images/3_1.jpg"
+        "3_1.jpg"
       ],
       "hours": [
         {
@@ -198,13 +198,13 @@
       "address": "Calle Frexes #45, Holguín",
       "phone": "+53 24 334455",
       "coordinates": {
-        "latitude": 20.8890,
-        "longitude": -76.2600
+        "latitude": 20.889,
+        "longitude": -76.26
       },
       "rating": 4.7,
       "isOpen24h": true,
       "images": [
-        "images/4_1.jpg"
+        "4_1.jpg"
       ],
       "hours": [
         {
@@ -245,12 +245,12 @@
       "address": "Carretera Central km 2½, Holguín",
       "phone": "+53 24 556677",
       "coordinates": {
-        "latitude": 20.8750,
-        "longitude": -76.2550
+        "latitude": 20.875,
+        "longitude": -76.255
       },
       "rating": 3.9,
       "images": [
-        "images/5_1.jpg"
+        "5_1.jpg"
       ],
       "hours": [
         {
@@ -312,12 +312,12 @@
       "address": "Parque de las Flores, Holguín",
       "phone": "+53 24 778899",
       "coordinates": {
-        "latitude": 20.8860,
-        "longitude": -76.2650
+        "latitude": 20.886,
+        "longitude": -76.265
       },
       "rating": 4.8,
       "images": [
-        "images/6_1.jpg"
+        "6_1.jpg"
       ],
       "hours": [
         {
@@ -371,12 +371,12 @@
       "address": "Calle Libertad #67, Holguín",
       "phone": "+53 24 112233",
       "coordinates": {
-        "latitude": 20.8820,
-        "longitude": -76.2680
+        "latitude": 20.882,
+        "longitude": -76.268
       },
       "rating": 4.3,
       "images": [
-        "images/7_1.jpg"
+        "7_1.jpg"
       ],
       "hours": [
         {
@@ -429,12 +429,12 @@
       "address": "Galería Comercial Holguín, Local 12",
       "phone": "+53 24 445566",
       "coordinates": {
-        "latitude": 20.8900,
-        "longitude": -76.2620
+        "latitude": 20.89,
+        "longitude": -76.262
       },
       "rating": 3.8,
       "images": [
-        "images/8_1.jpg"
+        "8_1.jpg"
       ],
       "hours": [
         {
@@ -481,12 +481,12 @@
       "address": "Calle Martí #234, Holguín",
       "phone": "+53 24 667788",
       "coordinates": {
-        "latitude": 20.8840,
-        "longitude": -76.2590
+        "latitude": 20.884,
+        "longitude": -76.259
       },
       "rating": 4.6,
       "images": [
-        "images/9_1.jpg"
+        "9_1.jpg"
       ],
       "hours": [
         {
@@ -527,12 +527,12 @@
       "address": "Avenida de los Mártires #89, Holguín",
       "phone": "+53 24 998877",
       "coordinates": {
-        "latitude": 20.8850,
-        "longitude": -76.2670
+        "latitude": 20.885,
+        "longitude": -76.267
       },
       "rating": 4.4,
       "images": [
-        "images/10_1.jpg"
+        "10_1.jpg"
       ],
       "hours": [
         {
@@ -579,12 +579,12 @@
       "address": "Avenida de los Mártires #89, Holguín",
       "phone": "+53 24 998877",
       "coordinates": {
-        "latitude": 20.8950,
-        "longitude": -76.2970
+        "latitude": 20.895,
+        "longitude": -76.297
       },
       "rating": 4.4,
       "images": [
-        "images/test.webp"
+        "test1.webp"
       ],
       "hours": [
         {
